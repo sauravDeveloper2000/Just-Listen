@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "246291708977",
+    "project_id": "justlisten-5a639",
+    "storage_bucket": "justlisten-5a639.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246291708977:android:1f959c3371f7256c04a910",
+        "android_client_info": {
+          "package_name": "com.example.justlisten"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDncsIOMRlN3hS4JeS_CvFy2QrJmMq2rDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
